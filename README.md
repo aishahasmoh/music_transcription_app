@@ -1,5 +1,13 @@
 # Echo - Voice to Tabs
 
+![Preliminary Logo](/assets/icon.png)
+
+Built by Team Echo: Aisha Mohamed, Justin Benz, Jin Yong Choi, Camille Forster, David Viggiano, and Andy Liu.
+
+### Project Abstract
+
+This cross-platform mobile application (**Echo: Voice to Tabs**) is designed for music creators at all levels, especially beginners. It allows users to record audio - from hums to previously recorded tunes - and processes that audio into refined note sequences, to be played back or displayed in MIDI format, guitar tabs, and possibly sheet music. Users can also edit their previously recorded note sequences and export them for sharing or use in musical recreation.
+
 ## Getting Started
 
 ### Frontend
