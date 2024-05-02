@@ -2,11 +2,13 @@
 
 ![Preliminary Logo](/assets/icon.png)
 
-Built by Team Echo: Aisha Mohamed, Justin Benz, Jin Yong Choi, Camille Forster, David Viggiano, and Andy Liu.
+Built by Agile and Scrum Team: Aisha Mohamed, Justin Benz, Jin Yong Choi, Camille Forster, David Viggiano, and Andy Liu.
 
 ### Project Abstract
 
 This cross-platform mobile application (**Echo: Voice to Tabs**) is designed for music creators at all levels, especially beginners. It allows users to record audio - from hums to previously recorded tunes - and processes that audio into refined note sequences, to be played back or displayed in MIDI format, guitar tabs, and possibly sheet music. Users can also edit their previously recorded note sequences and export them for sharing or use in musical recreation.
+
+To learn more about the requiremetns and design of the project, please read [this file](https://github.com/aishahasmoh/music_transcription_app/blob/main/requirements_specifications.md)
 
 ## Getting Started
 
